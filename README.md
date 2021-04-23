@@ -15,7 +15,7 @@ Group member:
   - Jane Wiest: 3862186
   - Michael Hert: 6683079
   - Giovanni Carlucci: 2871390
-
+<br><br>
 
 How to start the application:
 - Download all the Backends
