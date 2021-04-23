@@ -1,0 +1,11 @@
+Use decoration;
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (1, 1, "green", "Echinodoustennellus", 18, "plant");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (2,1, "green", "Hygrophiladifformis", 25, "plant");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (3,1, "green", "Madagascarlace plant", 33, "plant");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (4,1, "green", "Moss", 8, "plant");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (5,1, "green-yellow", "Ground cover", 4, "plant");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (6,1, "green-pink", "Water lily", 20, "plant");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (7,1, "black", "black lava", 30, "rock");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (8,1, "browwn-red", "Drachenstein Ohk", 30, "rock");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (9,1, "grey", "Galapagos Rocks", 44, "rock");
+Insert Into decoration (decoration_id ,amount, colour, name, price, type) VALUES (10,1, "beige", "Perforated brick", 29, "rock");

@@ -1,0 +1,14 @@
+com/distributedsystems/task/repository/OrderRepository.java
+ com.distributedsystems.task.repository.OrderRepository
+com/distributedsystems/task/repository/DecorationRepository.java
+ com.distributedsystems.task.repository.DecorationRepository
+com/distributedsystems/task/TaskApplication.java
+ com.distributedsystems.task.TaskApplication
+com/distributedsystems/task/model/Order.java
+ com.distributedsystems.task.model.Order
+com/distributedsystems/task/model/Decoration.java
+ com.distributedsystems.task.model.Decoration
+com/distributedsystems/task/controller/DecorationController.java
+ com.distributedsystems.task.controller.DecorationController
+com/distributedsystems/task/service/DecorationService.java
+ com.distributedsystems.task.service.DecorationService
