@@ -19,4 +19,5 @@ Group member:
 
 How to start the application:
 - Download all the Backends
-- Start Run Applications of all Backends
+- Start Run TaskApplication of all Backends
+- you now can talk with all endpoints in the controllers
