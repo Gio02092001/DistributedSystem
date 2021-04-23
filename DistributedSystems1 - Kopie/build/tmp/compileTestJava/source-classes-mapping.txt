@@ -1,2 +1,0 @@
-com/distributedsystems/task/TaskApplicationTests.java
- com.distributedsystems.task.TaskApplicationTests
