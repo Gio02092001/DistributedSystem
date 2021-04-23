@@ -1,0 +1,1 @@
+d ,amount, colour, name, price, type) VALUES (10,1, "beige", "Perforated brick", 29, "rock");
