@@ -2,11 +2,10 @@
 
 Group: AquaNet
 
-presented as: 4th
+Presented as: 4th
 
-number in List: 3
-
-
+Number in List: 3
+<br><br>
 
 Group member:
   - Kathrin Kohlberg: 7858880
