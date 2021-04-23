@@ -1,0 +1,8 @@
+Use equipment;
+Insert Into equipment (equipment_id ,amount, name, price, producer) VALUES (1,1, "net",  5, "Dehner");
+Insert Into equipment (equipment_id ,amount, name, price, producer) VALUES (2,1, "sponge",  5, "juwel");
+Insert Into equipment (equipment_id ,amount, name, price, producer) VALUES (3,1, "safety underlay",  6, "Dehner");
+Insert Into equipment (equipment_id ,amount, name, price, producer) VALUES (4,1, "filter rocks", 48, "eheim");
+Insert Into equipment (equipment_id ,amount, name, price, producer) VALUES (5,1, "thermometer",  8, "juwel");
+Insert Into equipment (equipment_id ,amount, name, price, producer) VALUES (6,1, "water pump",  6, "eheim");
+Insert Into equipment (equipment_id ,amount, name, price, producer) VALUES (7,1, "magnet",  2, "dehner");
