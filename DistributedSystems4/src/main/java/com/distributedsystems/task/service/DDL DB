@@ -1,0 +1,6 @@
+Use fish;
+Insert Into fish (fish_id ,amount, colour, lifespan, name, price,size, type) VALUES (1, 1, "orange",2, "goldfish", 2,6, "fish");
+Insert Into fish (fish_id ,amount, colour, lifespan, name, price,size, type) VALUES (2, 1, "colorful",3, "cichlid", 2,7, "fish");
+Insert Into fish (fish_id ,amount, colour, lifespan, name, price,size, type) VALUES (3, 1, "black and white",2, "Carbon Rili Shrimp", 2,3, "shrimp");
+Insert Into fish (fish_id ,amount, colour, lifespan, name, price,size, type) VALUES (4, 1, "various",2, "Acroluxus lacustris", 2,1, "snail");
+Insert Into fish (fish_id ,amount, colour, lifespan, name, price,size, type) VALUES (5, 1, "orange",2, "dwarf crayfish", 2,5, "cancer");
